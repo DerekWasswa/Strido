@@ -1,7 +1,7 @@
 # Strido
 Discover the latest in footwear fashion with our Shoes App! Browse curated selections from top brands like Nike, Adidas, Vans, and Converse. Enjoy a seamless shopping experience, detailed product insights, and exclusive deals. Elevate your style effortlessly – step into fashion with our user-friendly app.
 
-Dribble Design
+[Dribble Design](https://dribbble.com/shots/22458525-Shoes-E-Commerce-Mobile-App-Design)
 
 ![Treks|Strolls](https://github.com/DerekWasswa/Strido/assets/9701272/2f6c7a76-2f25-44de-b7e1-02a0427c894b)
 
